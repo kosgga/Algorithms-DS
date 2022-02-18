@@ -8,7 +8,8 @@ def SelSort(arr):
                 min_inndex=j
 
         if min_inndex !=i:
-            arr[min_inndex],arr[i]=arr[i],arr[min_inndex]
+            arr[min_inndex],arr[i]=arr[i],arr[min_inndex]#Thanks to python no need to store variables here*Learned
+            
 
 array1=[6,8,15,4,7]
 SelSort(array1)
