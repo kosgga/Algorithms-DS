@@ -24,12 +24,18 @@ Selection sort is a **sorting algorithm** that selects the smallest element from
    [20,12,<mark>**10**</mark>,15,2]
 
    [20,12,10,15,<mark>**2**</mark>]
+   
+   ------
 
 3. After each iteration, *minimum* is placed in front of the unsorted list
 
    [<mark>**2**</mark>,12,10,15,20]
+   
+   -----
 
-4.For each iteration, indexing starts from the first unsorted element.Step 1 to 3 are repeated until all the elements are placed at their correct positions.
+4. For each iteration, indexing starts from the first unsorted element.Step 1 to 3 are repeated until all the elements are placed at their correct positions.
+
+-----
 
 ### Selection Sort Algorithm
 -SelectionSort(array, size)<br>
