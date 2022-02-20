@@ -46,3 +46,15 @@ Selection sort is a **sorting algorithm** that selects the smallest element from
 -set element as new minimum<br>
 -Swap minimum with the first unsorted position <br>
 -end selection sort<br>
+
+## RECURSIVE ALGORITHMS
+
+-Bütündeki çözüm mantığı alt problemlerde de geçerli ise recursive algoritmalar kullanılabilir.
+
+-Fonksiyonlar kendi kendini çağırabildikleri gibi (direct recursion), çağırdıkları fonksiyon tarafından da çağırılabilir(indirect recursion).
+
+### GeeksForGeeks
+
+#### What is Recursion?
+
+-The process in which a function calls itself directly or indirectly is called recurison and the corresponding function is called as recursive function.Using recursive algorithm, certain problem can be solved quite easily.<ins>**Tower of Hano**</ins>
