@@ -29,12 +29,11 @@ Selection sort is a **sorting algorithm** that selects the smallest element from
 4.For each iteration, indexing starts from the first unsorted element.Step 1 to 3 are repeated until all the elements are placed at their correct positions.
 
 ### Selection Sort Algorithm
-|
-***-SelectionSort(array, size)<br>
+-SelectionSort(array, size)<br>
 -repeat(size-1 times)<br>
 -set the first unsorted element as the minimum<br>
 -for each of unsorted elements<br>
 -if element "<"Current minimum <br>
 -set element as new minimum<br>
 -Swap minimum with the first unsorted position <br>
--end selection sort<br>***
+-end selection sort<br>
