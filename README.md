@@ -64,13 +64,13 @@ Selection sort is a **sorting algorithm** that selects the smallest element from
 
 In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
 
-int fact(int n)
-{
-    ***if (n < = 1) // base case
-        return 1;***
-    else    
-        return n*fact(n-1);    
-}
+int fact(int n)<br>
+{<br>
+    ***if (n < = 1) // base case<br>
+        return 1;***<br>
+    else    <br>
+        return n*fact(n-1);  <br>  
+}<br>
 
 
 
