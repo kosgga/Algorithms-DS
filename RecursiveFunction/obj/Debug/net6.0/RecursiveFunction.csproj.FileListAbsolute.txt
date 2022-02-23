@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.exe
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.deps.json
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.dll
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\ref\RecursiveFunction.dll
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.pdb
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.dll
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\ref\RecursiveFunction.dll
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.pdb
+C:\Users\Kosgga\Documents\Sites\Algorithms-DS\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.genruntimeconfig.cache
