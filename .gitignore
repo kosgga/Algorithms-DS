@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # .NET Core
 project.lock.json
 project.fragment.lock.json
 artifacts/
+=======
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+>>>>>>> bcd53f62bbb91a317799ca63a77a1910cbaada1b
