@@ -58,3 +58,20 @@ Selection sort is a **sorting algorithm** that selects the smallest element from
 #### What is Recursion?
 
 -The process in which a function calls itself directly or indirectly is called recurison and the corresponding function is called as recursive function.Using recursive algorithm, certain problem can be solved quite easily.<ins>**Tower of Hano**</ins>
+
+
+#### What is Base Condition in Recursion?
+
+In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
+
+int fact(int n)<br>
+{<br>
+    ***if (n < = 1) // base case<br>
+        return 1;***<br>
+    else    <br>
+        return n*fact(n-1);  <br>  
+}<br>
+
+
+
+In the above example, base case for n<=1 is defined and larger value of number can be solved by converting to smaller one till base case is reached.
