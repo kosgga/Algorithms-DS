@@ -18,7 +18,7 @@ namespace Fib
             int n=5;
             Console.WriteLine("5 satısının fibonacci serisi :");
 
-            for (int i=0;i<n,i++)
+            for (int i=0;i<n;++)
             {
                 Console.WriteLine(fib(i)+" ");
             }
